@@ -2,3 +2,16 @@ Hola soy zxfeh es mi primer script es un servidor
 Que sacara 'localhost y puerto' es un
 Script muy fácil escrito en python
 Pero después haré más eso espero que te guste
+
+Pará ejecutar el script el atacante debe poner esto
+python o python2 o python3 si no funciona el primero 
+'python server.py'
+Esto debería poner el atacante 
+
+
+La victima debería poner esto
+
+python o python2 o python3 si no funciona el primero
+'python script.py'
+
+Eso debería poner la victima
