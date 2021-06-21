@@ -1,0 +1,4 @@
+Hola soy zxfeh es mi primer script es un servidor
+Que sacara 'localhost y puerto' es un
+Script muy fácil escrito en python
+Pero después haré más eso espero que te guste
